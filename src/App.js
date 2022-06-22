@@ -5,7 +5,7 @@ import Layout from "./components/layout/Layout";
 import AllProducts from "./pages/AllProducts";
 import NewProduct from "./pages/NewProduct";
 import ProductDetail from "./pages/ProductDetail";
-import NotFound from "./pages/NotFound";
+/* import NotFound from "./pages/NotFound"; */
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
           <Route path="/products" element={<AllProducts />} />
           <Route path="/products/:productId" element={<ProductDetail />} />
           <Route path="/new-product" element={<NewProduct />} />
-          <Route path="*" element={<NotFound />} />
+          <Route path="*" element={<Navigate replace to="/products" /> } />
         </Routes>
       </Layout>
     </React.Fragment>
