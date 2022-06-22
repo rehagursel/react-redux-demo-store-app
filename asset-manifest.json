@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rehaOmerGursel-reactjs/static/css/main.1571aa6a.css",
-    "main.js": "/rehaOmerGursel-reactjs/static/js/main.2855e487.js",
+    "main.css": "/rehaOmerGursel-reactjs/static/css/main.52c95ccb.css",
+    "main.js": "/rehaOmerGursel-reactjs/static/js/main.024ee691.js",
     "index.html": "/rehaOmerGursel-reactjs/index.html",
-    "main.1571aa6a.css.map": "/rehaOmerGursel-reactjs/static/css/main.1571aa6a.css.map",
-    "main.2855e487.js.map": "/rehaOmerGursel-reactjs/static/js/main.2855e487.js.map"
+    "main.52c95ccb.css.map": "/rehaOmerGursel-reactjs/static/css/main.52c95ccb.css.map",
+    "main.024ee691.js.map": "/rehaOmerGursel-reactjs/static/js/main.024ee691.js.map"
   },
   "entrypoints": [
-    "static/css/main.1571aa6a.css",
-    "static/js/main.2855e487.js"
+    "static/css/main.52c95ccb.css",
+    "static/js/main.024ee691.js"
   ]
 }
