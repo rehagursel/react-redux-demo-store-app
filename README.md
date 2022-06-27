@@ -1,12 +1,13 @@
-# React-UPayments-Case-Study
+# Store-App
 
-Demo Store App
+Demo Store App with Http request
 
 ## Technologies
 
 - React
 - CSS (Tailwindcss)
 - Redux Toolkit
+- Restful API
 
 ## Requirements
 
@@ -19,7 +20,7 @@ Demo Store App
 * First clone the repository
 
 ```
-git clone git@github.com:rehagursel/rehaOmerGursel-reactjs.git
+git clone git@github.com:rehagursel/react-redux-demo-store-app.git
 ```
 
 * Then go to the local directory and run below commands
