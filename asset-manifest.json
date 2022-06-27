@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rehaOmerGursel-reactjs/static/css/main.52c95ccb.css",
-    "main.js": "/rehaOmerGursel-reactjs/static/js/main.101ec144.js",
-    "index.html": "/rehaOmerGursel-reactjs/index.html",
-    "main.52c95ccb.css.map": "/rehaOmerGursel-reactjs/static/css/main.52c95ccb.css.map",
-    "main.101ec144.js.map": "/rehaOmerGursel-reactjs/static/js/main.101ec144.js.map"
+    "main.css": "/react-redux-demo-store-app/static/css/main.52c95ccb.css",
+    "main.js": "/react-redux-demo-store-app/static/js/main.101ec144.js",
+    "index.html": "/react-redux-demo-store-app/index.html",
+    "main.52c95ccb.css.map": "/react-redux-demo-store-app/static/css/main.52c95ccb.css.map",
+    "main.101ec144.js.map": "/react-redux-demo-store-app/static/js/main.101ec144.js.map"
   },
   "entrypoints": [
     "static/css/main.52c95ccb.css",
