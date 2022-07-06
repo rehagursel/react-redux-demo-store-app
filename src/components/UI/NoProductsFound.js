@@ -1,7 +1,12 @@
+import React from  "react"
+
+import Catagories from "../products/Catagories"
 import { Link } from "react-router-dom";
 
 const NoProductsFound = (props) => {
   return (
+    <React.Fragment>
+    <Catagories />
     <div className="mx-auto mt-40 w-2/3 text-center">
       <p>No Product found!</p>
       {props.buttonType === "cancel" ? (
@@ -20,6 +25,7 @@ const NoProductsFound = (props) => {
         </Link>
       )}
     </div>
+    </React.Fragment>
   );
 };
 
